@@ -2,9 +2,9 @@
     {
         "module": "[fill]",
         "size": {
-            ".text": 618,
+            ".text": 616,
             ".data": 4,
-            ".bss": 23,
+            ".bss": 31,
             ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
@@ -46,9 +46,9 @@
     {
         "module": "main.o",
         "size": {
-            ".text": 592,
+            ".text": 668,
             ".data": 0,
-            ".bss": 1280,
+            ".bss": 928,
             ".text-delta": 0,
             ".data-delta": 0,
             ".bss-delta": 0
@@ -102,6 +102,17 @@
         "module": "nlib\\ADC",
         "size": {
             ".text": 142,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 0,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "nlib\\CSVplot",
+        "size": {
+            ".text": 450,
             ".data": 0,
             ".bss": 0,
             ".text-delta": 0,
@@ -165,17 +176,6 @@
         }
     },
     {
-        "module": "nlib\\StringFormat",
-        "size": {
-            ".text": 220,
-            ".data": 0,
-            ".bss": 0,
-            ".text-delta": 0,
-            ".data-delta": 0,
-            ".bss-delta": 0
-        }
-    },
-    {
         "module": "nlib\\StringSerial",
         "size": {
             ".text": 186,
@@ -199,9 +199,9 @@
     },
     {
         "summary": {
-            "static_ram": 5152,
+            "static_ram": 4808,
             "static_ram_delta": 0,
-            "total_flash": 57280,
+            "total_flash": 57584,
             "total_flash_delta": 0
         }
     }

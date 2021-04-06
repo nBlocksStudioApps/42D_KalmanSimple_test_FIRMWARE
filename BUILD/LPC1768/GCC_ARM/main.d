@@ -80,4 +80,4 @@ BUILD\LPC1768\GCC_ARM\main.o: main.cpp \
  nlib\ADC\adc.h nlib\KalmanSimple\KalmanSimple.h \
  nlib\KalmanSimple\SimpleKalmanFilter.h nlib\SignalMixer\signalmixer.h \
  nlib\NoiseSource\noisesource.h nlib\StringSerial\stringserial.h \
- nlib\StringFormat\stringformat.h
+ nlib\CSVplot\csvplot.h

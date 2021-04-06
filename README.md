@@ -42,3 +42,24 @@ width = 800
 </p>
 
 ----
+
+## 4. CSVplot Node testing
+
+
+<p align="center">
+<img
+src="img/06.PNG"
+width = 800
+/>
+</p>
+
+----
+
+<p align="center">
+<img
+src="img/05.GIF"
+width = 800
+/>
+</p>
+
+----
