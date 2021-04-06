@@ -1,4 +1,5 @@
 # [42D_KalmanSimple_test_FIRMWARE](https://github.com/nBlocksStudioApps/42D_KalmanSimple_test_FIRMWARE)
+[![](https://img.shields.io/badge/nBlocksStudioNodes-CSVplot-802000.svg)](https://github.com/nBlocksStudioNodes/nblocks_csvplot)
 
 A schematic Design for Testing the Node [KalmanSimple](https://github.com/nBlocksStudioNodes/nblocks_kalmansimple) and [42D_KalmanSimple_test_SCH](https://github.com/nBlocksStudioApps/42D_KalmanSimple_test_SCH)
 
