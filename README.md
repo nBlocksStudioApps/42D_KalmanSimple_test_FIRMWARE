@@ -29,7 +29,7 @@ width = 800
 <p align="center">
 <img
 src="img/03.PNG"
-width = 800
+width = 900
 />
 </p>
 
@@ -50,7 +50,7 @@ width = 800
 <p align="center">
 <img
 src="img/06.PNG"
-width = 800
+width = 900
 />
 </p>
 
@@ -60,6 +60,19 @@ width = 800
 <img
 src="img/05.GIF"
 width = 800
+/>
+</p>
+
+----
+
+
+
+## 5. [SerialPlot software](https://hackaday.io/project/5334-serialplot-realtime-plotting-software/log/183605-serialplot-v011-release) 
+
+<p align="center">
+<img
+src="img/07.GIF"
+width = 900
 />
 </p>
 
